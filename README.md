@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js 16" />
   <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react" alt="React 19" />
   <img src="https://img.shields.io/badge/TypeScript-6-3178C6?logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License" />
 </p>
 
 Interactive OT/ICS architecture training for students, practitioners, and industrial teams.
@@ -108,7 +107,7 @@ This public repository showcases the platform, explains the value proposition, a
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+All rights reserved. This repository contains product documentation and showcase materials only. The source code is proprietary.
 
 ## Contact
 
